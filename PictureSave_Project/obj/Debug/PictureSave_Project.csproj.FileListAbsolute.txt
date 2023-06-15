@@ -1,0 +1,11 @@
+C:\Code Project\PictureSave_Project\PictureSave_Project\bin\Debug\PictureSave_Project.exe.config
+C:\Code Project\PictureSave_Project\PictureSave_Project\bin\Debug\PictureSave_Project.exe
+C:\Code Project\PictureSave_Project\PictureSave_Project\bin\Debug\PictureSave_Project.pdb
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.csproj.AssemblyReference.cache
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.csproj.SuggestedBindingRedirects.cache
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.Form1.resources
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.Properties.Resources.resources
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.csproj.GenerateResource.cache
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.csproj.CoreCompileInputs.cache
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.exe
+C:\Code Project\PictureSave_Project\PictureSave_Project\obj\Debug\PictureSave_Project.pdb
